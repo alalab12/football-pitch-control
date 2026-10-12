@@ -10,11 +10,8 @@ Caractéristiques du match :
 
 Pourquoi ce match ?
 
-- Beaucoup de buts (6 au total) : le match contient de nombreuses phases
-  d'attaque et de transition, donc plus de moments intéressants pour
-  comparer Voronoï et pitch control.
-  
-- Les buts donnent des repères clairs pour valider mes cartes : le
+- Beaucoup de buts (6 au total) : 
+  Les buts donnent des repères clairs pour valider mes cartes : le
   contrôle d'espace de l'équipe qui attaque doit augmenter avant un but.
   
 - Un seul match pour tout le projet, afin de rester concentrée sur la

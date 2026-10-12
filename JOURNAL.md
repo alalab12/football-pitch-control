@@ -7,7 +7,7 @@ Match details :
 - score : 4-2
 - place : Melbourne
 - pitch : Ironbark Fields
-- pitch lane : 106
+- pitch length : 106
 - pitch width : 68
 
 Why this match?

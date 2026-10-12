@@ -1,19 +1,20 @@
 12/10/2026 :
 
-choix du Match :  Western United VS Auckland FC
-Caractéristiques du match :
+Match :  Western United VS Auckland FC
+Match details :
 - id : 2015213
 - date : 3 mai 2025
 - score : 4-2
-- Lieu : Melbourne
-- Terrain : Ironbark Fields
+- place : Melbourne
+- pitch : Ironbark Fields
+- pitch lane : 106
+- pitch width : 68
 
-Pourquoi ce match ?
+Why this match?
 
-- Beaucoup de buts (6 au total) : 
-  Les buts donnent des repères clairs pour valider mes cartes : le
-  contrôle d'espace de l'équipe qui attaque doit augmenter avant un but.
+- Many goals (6 in total): goals give clear reference points to
+  validate my maps. The attacking team's pitch control should rise in
+  the seconds before a goal.
   
-- Un seul match pour tout le projet, afin de rester concentrée sur la
-  méthode avant d'en ajouter d'autres.
-
+- One match for the whole project: this keeps me focused on the
+  methodology before adding other matches.
